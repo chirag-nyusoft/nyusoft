@@ -1,15 +1,5 @@
 @media (min-width: 1025px) and (max-width: 1199px) {
-    .woocommerce ul.products.columns-4 li.product,
-    .woocommerce-page ul.products.columns-4 li.product {
-        width: 33.333%;
-    }
-    h1 {
-        font-size: 16px;
-    }
-    .tester {
-        color: aquamarine;
-    }
-    h4 {
-        color: black;
+    p {
+        color: aqua;
     }
 }
