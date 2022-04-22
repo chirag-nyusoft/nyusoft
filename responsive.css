@@ -3,4 +3,7 @@
     .woocommerce-page ul.products.columns-4 li.product {
         width: 33.333%;
     }
+    h1 {
+        font-size: 16px;
+    }
 }
