@@ -2452,6 +2452,9 @@
     .discover-collection .ibid-breadcrumbs h1 {
         text-align: left;
     }
+    footer {
+        font-style: normal;
+    }
     footer .footer-top .footer-row-1 {
         margin-top: 120px !important;
     }
