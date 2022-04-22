@@ -3,8 +3,8 @@
     .woocommerce-page ul.products.columns-4 li.product {
         width: 33.333%;
     }
-    .test {
-        color: aqua;
+    h1 {
+        font-size: 16px;
     }
     .tester {
         color: aquamarine;
