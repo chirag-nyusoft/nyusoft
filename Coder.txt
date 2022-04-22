@@ -2,7 +2,14 @@ asdas dasd as
 Now i'm trying replace code...
 I am working now as Software programmer.....HAHAHA
 <<<<<<< HEAD
+<<<<<<< HEAD
 yopmail.com asda das d
 =======
 sdasdsad 
 >>>>>>> 1780225 (update)
+=======
+sdasdsad 
+asdas amas dasdasd asd 
+asd asdasd ads as
+das asdas
+>>>>>>> dc78b0e (code-upt-22)
